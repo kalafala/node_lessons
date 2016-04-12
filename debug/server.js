@@ -1,6 +1,8 @@
 /** 
  *  This is a simple server file to demonstrate the debug module.
  *  This is based on the examples from https://github.com/visionmedia/debug
+ * 
+ *  This can be executed with "DEBUG=server,woker,app:* node ."
  */
 
 var express = require('express');
