@@ -1,0 +1,28 @@
+{
+  "name": "debug-example",
+  "version": "1.0.0",
+  "description": "This is a simple debug example server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwtaggart/node_lessons.git"
+  },
+  "keywords": [
+    "debug",
+    "node.js"
+  ],
+  "author": "RW Taggart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwtaggart/node_lessons/issues"
+  },
+  "homepage": "https://github.com/rwtaggart/node_lessons#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.13.4",
+    "http": "0.0.0"
+  }
+}
